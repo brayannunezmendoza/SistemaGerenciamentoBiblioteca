@@ -14,7 +14,7 @@
     Classe Usuario
       atributos: nome, id, livros_emprestados
   
-  **2 Funcionalidades Obrigatorios**
+  ## **2 Funcionalidades Obrigatorios**
     Menu principal
       1. Cadastrar livro
       2. Cadastro usuario
@@ -27,13 +27,13 @@
       9. Relatório estatístico
       0. Sair
 
-  **3 Validações obrigatorios**
+  ## **3 Validações obrigatorios**
     ID unico
     Emprestimo de livro disponivel apenas se livro estiver disponivel E existir
     Limite de emprestimo de 3 livros por usuario
     Livro so pode ser emprestado para 1 úsuario por vez
 
-  **4 Relatório Estatísticos**
+  ## **4 Relatório Estatísticos**
     Total de livros cadastrados
     Total de livros disponíveis
     Total de usuários cadastrados
