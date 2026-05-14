@@ -1,6 +1,6 @@
 # SistemaGerenciamentoBiblioteca
 
-**#Descrição do programa**
+# **Descrição do programa**
   Desenvolvimento de um programa para gerenciar um biblioteca, onde o sistema terá:
     Cadastro de Livros(título, autor, ano, disponibilidade)
     Cadastro de Usuários (nome, id unico, livros emprestados)
