@@ -8,7 +8,7 @@
     Listar livros disponiveis, emprestados e autor
     Buscar livros por titulos ou autor
 
-  **1 Estruturas dos dados**
+  ## **1 Estruturas dos dados**
     classe livro
       atributos: titulo, autor, ano, disponibilidade
     Classe Usuario
